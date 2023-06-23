@@ -11,6 +11,6 @@ var total: Double
 // 🇧🇷 Reais conversion rate: 0.24
 // 🇵🇪 Soles conversion rate: 0.29
 
-total = 0.00029 * pesos + 0.24 * reais + 0.29 * soles
+total = (0.058 * pesos) + (0.21* reais) + (0.27 * soles) //Currency updated by Mohammed on June 23, 2023
 
 print("Total USD = $\(total)")
