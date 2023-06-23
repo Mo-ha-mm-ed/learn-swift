@@ -7,9 +7,9 @@ var soles: Double = 6
 
 var total: Double
 
-// 🇨🇴 Pesos conversion rate: 0.00029
-// 🇧🇷 Reais conversion rate: 0.24
-// 🇵🇪 Soles conversion rate: 0.29
+// 🇨🇴 Pesos conversion rate: 0.058
+// 🇧🇷 Reais conversion rate: 0.21
+// 🇵🇪 Soles conversion rate: 0.27
 
 total = 0.00029 * pesos + 0.24 * reais + 0.29 * soles
 
